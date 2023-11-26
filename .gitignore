@@ -1,0 +1,22 @@
+# Ignore README files
+*.md
+
+*/test/*
+
+# Ignore environment files
+*.DS_Store
+*.vscode
+
+# Ignore project files
+*.clang-format
+*.html
+# Ignore build artifacts and compiled files
+/httpd/httpd
+*.o
+*.a
+*.out
+*.exe
+*.so
+*.dll
+*.idea
+

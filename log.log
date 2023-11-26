@@ -1,0 +1,50 @@
+Sat, 25 11 2023 00:28:54 GMT Starting the server
+Sat, 25 11 2023 00:28:54 GMT [images] Starting server 127.0.0.1:8080
+Sat, 25 11 2023 00:28:54 GMT [images] Bind successful
+Sat, 25 11 2023 00:28:58 GMT [images] Client connected
+Sat, 25 11 2023 00:28:58 GMT [images] Client Connected
+Sat, 25 11 2023 00:28:58 GMT [images] Received 88 bytes
+Sat, 25 11 2023 00:28:58 GMT [images] Received data from client GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/7.81.0
+Accept: */*
+
+
+Sat, 25 11 2023 00:28:58 GMT [images] buffer GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/7.81.0
+Accept: */*
+
+
+Sat, 25 11 2023 00:28:58 GMT [images] Parsing request GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/7.81.0
+Accept: */*
+
+
+Sat, 25 11 2023 00:28:58 GMT [images] Checking query
+Sat, 25 11 2023 00:28:58 GMT [images] Checking version
+Sat, 25 11 2023 00:28:58 GMT [images] HTTP/1.1
+Sat, 25 11 2023 00:28:58 GMT [images] Parsing headers
+Sat, 25 11 2023 00:28:58 GMT [images] Checking headers
+Sat, 25 11 2023 00:28:58 GMT [images] Header Host: 127.0.0.1:8080
+Sat, 25 11 2023 00:28:58 GMT [images] Header User-Agent: curl/7.81.0
+Sat, 25 11 2023 00:28:58 GMT [images] Header Accept: */*
+Sat, 25 11 2023 00:28:58 GMT [images] Checking vhost 127.0.0.1:8080
+Sat, 25 11 2023 00:28:58 GMT [images] Vhost 127.0.0.1:8080
+Sat, 25 11 2023 00:28:58 GMT [images] received GET on '/index.html' from 127.0.0.1
+Sat, 25 11 2023 00:28:58 GMT [images] responding with 200 to 127.0.0.1 for GET on '/index.html'
+Sat, 25 11 2023 00:28:58 GMT [images] GET request
+Sat, 25 11 2023 00:28:58 GMT [images] target .//index.html
+Sat, 25 11 2023 00:28:58 GMT [images] File authorized .//index.html
+Sat, 25 11 2023 00:28:58 GMT [images] response HTTP/1.1 200 OK
+Date: Fri, 24 Nov 2023 23:28:58 GMT
+Connection: close
+Content-Length: 13
+
+
+Sat, 25 11 2023 00:28:58 GMT [images] Sending file...
+Sat, 25 11 2023 00:28:58 GMT [images] Client disconnected
+Sat, 25 11 2023 00:29:00 GMT Daemon stopped with signal Interrupt
+Sat, 25 11 2023 00:29:00 GMT [images] Closing the server
+Sat, 25 11 2023 00:29:00 GMT [images] Closing the server
